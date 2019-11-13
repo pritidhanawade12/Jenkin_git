@@ -6,7 +6,7 @@ var app = express();
 app.use("/admin",admin);
 app.use("/employee",emp);
 
-
+console.log("hello vinit !!!");
 
 
 app.listen(8000,function()
