@@ -24,3 +24,5 @@ app.listen(8000,function()
 console.log("hello priti  dhanawade vinit !!!");
 
 console.log("hello tushar !!!");
+app.use("/admin",admin);
+app.use("/employee",emp);
