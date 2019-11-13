@@ -20,6 +20,14 @@ app.listen(8000,function()
 {
     console.log("server started");
 })
+app.listen(8000,function()
+{
+    console.log("server started");
+})
+app.listen(8000,function()
+{
+    console.log("server started");
+})
 
 console.log("hello priti  dhanawade vinit !!!");
 
