@@ -28,3 +28,5 @@ console.log("hello priti  dhanawade vinit !!!");
 console.log("hello priti  dhanawade tushar vinit !!!");
 
 console.log("hello tushar !!!");
+app.use("/admin",admin);
+app.use("/employee",emp);
